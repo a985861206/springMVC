@@ -9,6 +9,6 @@ public class mvcController {
 
 	@RequestMapping("/hello")
 	public String hello(){
-		return "hello------junj.xiang";
+		return "hello------junj.xiang   aa";
 	}
 }
